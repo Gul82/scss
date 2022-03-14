@@ -1,0 +1,1 @@
+const cotentElem = document.querySelector('.content')
